@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Destiny
 //
-//  Created by Дмитрий Яковлев on 02.02.2023.
+//  Created by Dmitrii Iakovelv on 02.02.2023.
 //
 
 import UIKit
